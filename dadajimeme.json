@@ -1,0 +1,38 @@
+{
+  "success": {
+    "message": "Memes fetched successfully",
+    "statusCode": 200
+  },
+  "data": [
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dmnsnlcls/image/upload/v1744741253/ChatGPT_Image_Apr_15_2025_03_11_24_PM_ebfx9x.png",
+      "description": "Jab net slow ho jaye stream ke beech mein.",
+      "memestext": "Jio se dosti tod di bhai!"
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dmnsnlcls/image/upload/v1744741253/ChatGPT_Image_Apr_15_2025_03_11_24_PM_ebfx9x.png",
+      "description": "Free Fire khelte waqt squad ka reaction.",
+      "memestext": "Clutch kar bhai... tu hi ummeed hai!"
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dmnsnlcls/image/upload/v1744741253/ChatGPT_Image_Apr_15_2025_03_11_24_PM_ebfx9x.png",
+      "description": "Monday morning ka feel.",
+      "memestext": "Uthna bhi ek struggle hai bhai!"
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dmnsnlcls/image/upload/v1744741253/ChatGPT_Image_Apr_15_2025_03_11_24_PM_ebfx9x.png",
+      "description": "Jab teacher bole, 'ye question important nahi hai'.",
+      "memestext": "Aur wahi exam mein aa jaye!"
+    },
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dmnsnlcls/image/upload/v1744741253/ChatGPT_Image_Apr_15_2025_03_11_24_PM_ebfx9x.png",
+      "description": "Jab exam ke pehle din sab kuch yaad aa jaye.",
+      "memestext": "Padhai toh last night hi hoti hai!"
+    }
+  ]
+}
